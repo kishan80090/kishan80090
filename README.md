@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Kishan Kumar
 
-### 💻 Full Stack Developer | BCA Student | Web Developer
+### 💻 Full Stack Developer | BCA Student |
 
-I'm a passionate **Full Stack Developer** and BCA student who loves building modern, responsive and user-friendly web applications.
+I'm a passionate Full Stack Developer who loves building modern, responsive, and user-friendly web applications.
 
-I enjoy learning new technologies, solving programming problems, and turning ideas into real-world projects.
-
+I enjoy learning new technologies, solving programming problems, and turning ideas into real-world projects. I'm always focused on improving my skills, exploring new technologies, and building meaningful projects.
 ---
 
 ## 🚀 About Me

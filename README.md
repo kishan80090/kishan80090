@@ -57,23 +57,6 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎯 Placement Preparation Portal
-
-A web-based platform designed to help students prepare for placements.
-
-**Features:**
-
-* 📚 Interview Preparation
-* 💻 Coding & DSA Practice
-* 📝 Aptitude Questions
-* 🎤 HR Interview Questions
-* 📊 Progress Tracking
-* 🏢 Company Preparation
-* 📄 Resume Preparation
-
----
 
 ### 🛒 E-Commerce Website
 

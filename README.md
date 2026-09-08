@@ -4,7 +4,7 @@
 
 I'm a passionate **Full Stack Developer** and BCA student who loves building modern, responsive and user-friendly web applications.
 
-I enjoy learning new technologies, solving programming problems, and turning ideas into real-world projects.
+I enjoylearning new technologies, solving programming problems, and turning ideas into real-world projects.
 
 ---
 

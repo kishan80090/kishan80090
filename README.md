@@ -86,27 +86,7 @@ A collection of small interactive games built for learning and entertainment.
 
 * ❌ Tic Tac Toe
 
-**Tech Stack:** React Native, Expo, JavaScript
-
-## 📚 Currently Learning
-
-```text
-Java
-   ↓
-OOP & Advanced Java
-   ↓
-Data Structures & Algorithms
-   ↓
-Node.js
-   ↓
-Express.js
-   ↓
-MongoDB / MySQL
-   ↓
-Full Stack Development
-```
-
----
+**Tech Stack:** React Native, Expo, JavaScript 
 
 ## 🧠 DSA Practice
 

@@ -73,8 +73,6 @@ A web-based platform designed to help students prepare for placements.
 * 🏢 Company Preparation
 * 📄 Resume Preparation
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB
-
 ---
 
 ### 🛒 E-Commerce Website
@@ -90,7 +88,10 @@ A responsive e-commerce application with product browsing, search, cart and chec
 * 💳 Checkout
 * 📱 Responsive Design
 
-**Tech Stack:** Angular, TypeScript, HTML, CSS
+### 🛒 E-Commerce Website
+
+**Tech Stack:** React.js, Node.js, Express.js, Mysql
+
 
 ---
 
@@ -101,14 +102,8 @@ A collection of small interactive games built for learning and entertainment.
 **Games include:**
 
 * ❌ Tic Tac Toe
-* 🐍 Snake Game
-* 🐦 Flappy Bird
-* 🏎️ Car Racing
-* 🧠 Memory Card Game
 
 **Tech Stack:** React Native, Expo, JavaScript
-
----
 
 ## 📚 Currently Learning
 

@@ -96,14 +96,11 @@ I'm regularly practicing:
 * Strings
 * Searching
 * Sorting
-* Recursion
 * Linked List
 * Stack
 * Queue
 * Hashing
 * Trees
-* Graphs
-* Dynamic Programming
 
 ---
 
